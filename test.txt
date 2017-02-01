@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test.
 Juliana stupid.
+=======
+hoho is rich!
+>>>>>>> refs/remotes/origin/master
